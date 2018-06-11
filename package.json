@@ -1,0 +1,27 @@
+{
+  "name": "iems",
+  "version": "1.0.0",
+  "description": "Income Expense Management System using express and mysql/mongo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshymatheww/node-iems.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Joshy Mathew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshymatheww/node-iems/issues"
+  },
+  "homepage": "https://github.com/joshymatheww/node-iems#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
